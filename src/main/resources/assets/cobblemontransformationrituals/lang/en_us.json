@@ -1,0 +1,14 @@
+{
+  "cobblemontransformationrituals.mark.mark_transgender": "Transgender Mark",
+  "cobblemontransformationrituals.mark.mark_transgender.title": "%1$s the Transgender",
+  "cobblemontransformationrituals.mark.mark_transgender.desc": "A mark for a Pokémon that changed its gender.",
+  "cobblemontransformationrituals.mark.mark_fools_gold": "Fool's Gold Mark",
+  "cobblemontransformationrituals.mark.mark_fools_gold.title": "%1$s the Fraudulent",
+  "cobblemontransformationrituals.mark.mark_fools_gold.desc": "A mark for a Pokémon that acquired its unique color unnaturally.",
+  "cobblemontransformationrituals.mark.mark_nomadic": "Nomadic Mark",
+  "cobblemontransformationrituals.mark.mark_nomadic.title": "%1$s the Nomad",
+  "cobblemontransformationrituals.mark.mark_nomadic.desc": "A mark for a Pokémon that has a new Poké Ball home.",
+  "cobblemontransformationrituals.mark.mark_traveller": "Traveller's Mark",
+  "cobblemontransformationrituals.mark.mark_traveller.title": "%1$s the Tourist",
+  "cobblemontransformationrituals.mark.mark_traveller.desc": "A mark for a Pokémon that changed its regional form."
+}

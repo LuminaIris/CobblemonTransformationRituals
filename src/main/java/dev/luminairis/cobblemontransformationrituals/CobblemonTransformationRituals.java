@@ -14,5 +14,6 @@ public class CobblemonTransformationRituals {
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public CobblemonTransformationRituals(IEventBus modEventBus, ModContainer modContainer) {
+
     }
 }
